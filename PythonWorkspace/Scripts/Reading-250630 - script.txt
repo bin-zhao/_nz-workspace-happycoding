@@ -1,0 +1,32 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Exaggeration. Exaggeration. Exaggeration.  <break time="3s" />
+Entertaining. Entertaining. Entertaining.  <break time="3s" />
+Impaired. Impaired. Impaired.  <break time="3s" />
+Commute. Commute. Commute.  <break time="3s" />
+Genres. Genres. Genres.  <break time="3s" />
+Crime. Crime. Crime.  <break time="3s" />
+Comedy. Comedy. Comedy.  <break time="3s" />
+Compelling. Compelling. Compelling.  <break time="3s" />
+Procedures. Procedures. Procedures.  <break time="3s" />
+Interrogative. Interrogative. Interrogative.  <break time="3s" />
+Architect. Architect. Architect.  <break time="3s" />
+Dictate. Dictate. Dictate.  <break time="3s" />
+Dictation. Dictation. Dictation.  <break time="3s" />
+Vacuum. Vacuum. Vacuum.  <break time="3s" />
+Janitor. Janitor. Janitor.  <break time="3s" />
+Hockey. Hockey. Hockey.  <break time="3s" />
+Puck. Puck. Puck.  <break time="3s" />
+Hazardous. Hazardous. Hazardous.  <break time="3s" />
+Intensive. Intensive. Intensive.  <break time="3s" />
+Extensive. Extensive. Extensive.  <break time="3s" />
+Fatigue. Fatigue. Fatigue.  <break time="3s" />
+Nutrients. Nutrients. Nutrients.  <break time="3s" />
+Campus. Campus. Campus.  <break time="3s" />
+Satirical. Satirical. Satirical.  <break time="3s" />
+Estate. Estate. Estate.  <break time="3s" />
+Distractor. Distractor. Distractor.  <break time="3s" />
+Exogenous. Exogenous. Exogenous.  <break time="3s" />
+Endogenous. Endogenous. Endogenous.  <break time="3s" />
+Sinusoidal. Sinusoidal. Sinusoidal.  <break time="3s" />
+Rhythm. Rhythm. Rhythm.  <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

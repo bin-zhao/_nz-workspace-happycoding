@@ -1,0 +1,17 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Compliant. Complient. <break time="3s" />
+Essay. Essay. <break time="3s" />
+Coherence. Coherence. <break time="3s" />
+Cohesion. Cohesion. <break time="3s" />
+Idiomatic. Idiomatic. <break time="3s" />
+Podcast. Podcast. <break time="3s" />
+Comprehension. Comprehension. <break time="3s" />
+Transcript. Transcript. <break time="3s" />
+Propensity. Propensity. <break time="3s" />
+Summarize. Summarize. <break time="3s" />
+Accents. Accents. <break time="3s" />
+Intonation. Intonation. <break time="3s" />
+Concisely. Concisely. <break time="3s" />
+Tendency. Tendency. <break time="3s" />
+Inclination. Inclination. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

@@ -1,0 +1,17 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Compliant. Following rules, orders, or requests; ready to agree with others. <break time="3s" />
+Essay. A short piece of writing on a particular subject, often expressing an individual's opinion or analysis. <break time="3s" />
+Coherence. The quality of being logical, consistent, and easy to understand; when all parts of something fit together well. <break time="3s" />
+Cohesion. The act or state of sticking together firmly; the natural or logical connection of the parts of a whole. Often used in writing to refer to how sentences and paragraphs link together. <break time="3s" />
+Idiomatic. Using or related to idioms; natural-sounding to a native speaker. An idiom is a phrase whose meaning cannot be understood from the ordinary meaning of its words (e.g., "kick the bucket"). <break time="3s" />
+Podcast. A digital audio file available on the internet for downloading to a computer or mobile device, typically available as a series. <break time="3s" />
+Comprehension. The ability to understand something; the act or process of understanding. <break time="3s" />
+Transcript. A written, typed, or printed copy of words that have been spoken; an official record of a student's grades. <break time="3s" />
+Propensity. A natural tendency or inclination to behave in a particular way. <break time="3s" />
+Summarize. To give a brief statement of the main points of something. <break time="3s" />
+Accents. Distinctive modes of pronunciation of a language, especially one associated with a particular nation, locality, or social class. <break time="3s" />
+Intonation. The rise and fall of the voice in speaking, which can convey meaning or emotion. <break time="3s" />
+Concisely. In a brief but comprehensive way; in a way that avoids unnecessary words. <break time="3s" />
+Tendency. An inclination toward a particular characteristic or type of behavior. <break time="3s" />
+Inclination. A person's natural preference or tendency to act or feel a particular way; a disposition. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

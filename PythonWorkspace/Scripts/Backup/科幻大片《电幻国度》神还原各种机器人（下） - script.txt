@@ -1,0 +1,200 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+I love that. <break time="3s" />
+I love that. <break time="3s" />
+One of the things that <break time="3s" /> I think is so cool <break time="3s" /> about your lab is that, <break time="3s" /> you know, in addition to <break time="3s" /> creating these really ambitious humanoid <break time="3s" /> robots, you also have robots <break time="3s" /> that have really novel forms. <break time="3s" /> <break time="3s" />
+One of the things that <break time="3s" /> I think is so cool <break time="3s" /> about your lab is that, <break time="3s" /> you know, in addition to <break time="3s" /> creating these really ambitious humanoid <break time="3s" /> robots, you also have robots <break time="3s" /> that have really novel forms. <break time="3s" /> <break time="3s" />
+I know you have one-the <break time="3s" /> body is a helium balloon, <break time="3s" /> and then it has these, <break time="3s" /> like, very twiglike legs. <break time="3s" />
+I know you have one-the <break time="3s" /> body is a helium balloon, <break time="3s" /> and then it has these, <break time="3s" /> like, very twiglike legs. <break time="3s" />
+Could you tell us about <break time="3s" /> some of your favorite designs <break time="3s" /> that, you know, go totally <break time="3s" /> in the other direction and, <break time="3s" /> and really are about function? <break time="3s" /> <break time="3s" />
+Could you tell us about <break time="3s" /> some of your favorite designs <break time="3s" /> that, you know, go totally <break time="3s" /> in the other direction and, <break time="3s" /> and really are about function? <break time="3s" /> <break time="3s" />
+I encourage people watching this <break time="3s" /> to go to TED.com. <break time="3s" />
+I encourage people watching this <break time="3s" /> to go to TED.com. <break time="3s" />
+Search for Dennis Hong. <break time="3s" />
+Search for Dennis Hong. <break time="3s" />
+I have three talks on <break time="3s" /> it. <break time="3s" />
+I have three talks on <break time="3s" /> it. <break time="3s" />
+And I show all the <break time="3s" /> different shape and size, like, <break time="3s" /> crazy creative robots that we <break time="3s" /> created in our lab. <break time="3s" />
+And I show all the <break time="3s" /> different shape and size, like, <break time="3s" /> crazy creative robots that we <break time="3s" /> created in our lab. <break time="3s" />
+Now, the robot that you <break time="3s" /> mentioned is called BALLU: Buoyancy-Assisted <break time="3s" /> Lightweight Legged Unit. <break time="3s" />
+Now, the robot that you <break time="3s" /> mentioned is called BALLU: Buoyancy-Assisted <break time="3s" /> Lightweight Legged Unit. <break time="3s" />
+So humanoid robots in the <break time="3s" /> early stages-they're slow. <break time="3s" />
+So humanoid robots in the <break time="3s" /> early stages-they're slow. <break time="3s" />
+They fall down. <break time="3s" />
+They fall down. <break time="3s" />
+They're complex, they're expensive, and <break time="3s" /> they're dangerous. <break time="3s" />
+They're complex, they're expensive, and <break time="3s" /> they're dangerous. <break time="3s" />
+I mentioned why we need <break time="3s" /> humanoid robots, but there's so <break time="3s" /> many different problems with these. <break time="3s" /> <break time="3s" />
+I mentioned why we need <break time="3s" /> humanoid robots, but there's so <break time="3s" /> many different problems with these. <break time="3s" /> <break time="3s" />
+So we've been doing some <break time="3s" /> brainstorming session on how to <break time="3s" /> solve these problems. <break time="3s" />
+So we've been doing some <break time="3s" /> brainstorming session on how to <break time="3s" /> solve these problems. <break time="3s" />
+Now, during this brainstorming sessions, <break time="3s" /> we always try to ask <break time="3s" /> ourselves ridiculous questions. <break time="3s" />
+Now, during this brainstorming sessions, <break time="3s" /> we always try to ask <break time="3s" /> ourselves ridiculous questions. <break time="3s" />
+That ridiculous answer comes out, <break time="3s" /> and sometimes from those ridiculous <break time="3s" /> answers, something really-creative idea pops <break time="3s" /> out. <break time="3s" />
+That ridiculous answer comes out, <break time="3s" /> and sometimes from those ridiculous <break time="3s" /> answers, something really-creative idea pops <break time="3s" /> out. <break time="3s" />
+In this case, we ask <break time="3s" /> ourselves, what if we can <break time="3s" /> change the direction of gravity? <break time="3s" /> <break time="3s" />
+In this case, we ask <break time="3s" /> ourselves, what if we can <break time="3s" /> change the direction of gravity? <break time="3s" /> <break time="3s" />
+How can you do that? <break time="3s" /> <break time="3s" />
+How can you do that? <break time="3s" /> <break time="3s" />
+It's possible. <break time="3s" />
+It's possible. <break time="3s" />
+We ask ourselves these questions. <break time="3s" /> <break time="3s" />
+We ask ourselves these questions. <break time="3s" /> <break time="3s" />
+That led to a new <break time="3s" /> type of humanoid robot, or <break time="3s" /> bipedal robot, called BALLU. <break time="3s" />
+That led to a new <break time="3s" /> type of humanoid robot, or <break time="3s" /> bipedal robot, called BALLU. <break time="3s" />
+The body is a helium <break time="3s" /> balloon. <break time="3s" />
+The body is a helium <break time="3s" /> balloon. <break time="3s" />
+It's a balloon with two <break time="3s" /> legs. <break time="3s" />
+It's a balloon with two <break time="3s" /> legs. <break time="3s" />
+It's a ridiculous robot, but <break time="3s" /> it cannot fall down. <break time="3s" />
+It's a ridiculous robot, but <break time="3s" /> it cannot fall down. <break time="3s" />
+It's the world's safest bipedal <break time="3s" /> robot, most likely, and most <break time="3s" /> likely it's the world's cheapest, <break time="3s" /> lowest-cost humanoid robot. <break time="3s" />
+It's the world's safest bipedal <break time="3s" /> robot, most likely, and most <break time="3s" /> likely it's the world's cheapest, <break time="3s" /> lowest-cost humanoid robot. <break time="3s" />
+It walks elegantly-a crazy, cute, <break time="3s" /> wonderful, out-of-this-world robot called BALLU. <break time="3s" /> <break time="3s" />
+It walks elegantly-a crazy, cute, <break time="3s" /> wonderful, out-of-this-world robot called BALLU. <break time="3s" /> <break time="3s" />
+Yeah, very cool. <break time="3s" />
+Yeah, very cool. <break time="3s" />
+How is AI factoring into, <break time="3s" /> uh, your robotics work and <break time="3s" /> the future of robotics? <break time="3s" />
+How is AI factoring into, <break time="3s" /> uh, your robotics work and <break time="3s" /> the future of robotics? <break time="3s" />
+Yes, so AI can mean <break time="3s" /> different things for different people, <break time="3s" /> but for our robotics, AI <break time="3s" /> can mean autonomy. <break time="3s" />
+Yes, so AI can mean <break time="3s" /> different things for different people, <break time="3s" /> but for our robotics, AI <break time="3s" /> can mean autonomy. <break time="3s" />
+These days with this large <break time="3s" /> language models-and we have a <break time="3s" /> new concept called large action <break time="3s" /> models. <break time="3s" />
+These days with this large <break time="3s" /> language models-and we have a <break time="3s" /> new concept called large action <break time="3s" /> models. <break time="3s" />
+I talked about this Artemis <break time="3s" /> humanoid robot. <break time="3s" />
+I talked about this Artemis <break time="3s" /> humanoid robot. <break time="3s" />
+It's a metal robot. <break time="3s" />
+It's a metal robot. <break time="3s" />
+It can run, jump. <break time="3s" />
+It can run, jump. <break time="3s" />
+It's a high-performance robot. <break time="3s" />
+It's a high-performance robot. <break time="3s" />
+It's a big, tall, heavy <break time="3s" /> robot. <break time="3s" />
+It's a big, tall, heavy <break time="3s" /> robot. <break time="3s" />
+Now, when we first introduced <break time="3s" /> Artemis humanoid robots, the robotic <break time="3s" /> society, the community was stunned <break time="3s" /> by its performance, and everybody <break time="3s" /> was asking, "Dr. Hong, what <break time="3s" /> kind of AI technique have <break time="3s" /> you used?" <break time="3s" />
+Now, when we first introduced <break time="3s" /> Artemis humanoid robots, the robotic <break time="3s" /> society, the community was stunned <break time="3s" /> by its performance, and everybody <break time="3s" /> was asking, "Dr. Hong, what <break time="3s" /> kind of AI technique have <break time="3s" /> you used?" <break time="3s" />
+And my answer was we <break time="3s" /> did not use any AI. <break time="3s" /> <break time="3s" />
+And my answer was we <break time="3s" /> did not use any AI. <break time="3s" /> <break time="3s" />
+As a matter of fact, <break time="3s" /> we couldn't use any AI. <break time="3s" /> <break time="3s" />
+As a matter of fact, <break time="3s" /> we couldn't use any AI. <break time="3s" /> <break time="3s" />
+The reason is this: Now <break time="3s" /> everybody uses ChatGPT. <break time="3s" />
+The reason is this: Now <break time="3s" /> everybody uses ChatGPT. <break time="3s" />
+It's a text-based, you know, <break time="3s" /> chatting AI system. <break time="3s" />
+It's a text-based, you know, <break time="3s" /> chatting AI system. <break time="3s" />
+What is the data? <break time="3s" />
+What is the data? <break time="3s" />
+The data is text. <break time="3s" />
+The data is text. <break time="3s" />
+Right? <break time="3s" />
+Right? <break time="3s" />
+You probably know DALL-E.
+DALL-E is <break time="3s" /> a AI system where you <break time="3s" /> give a prompt and it <break time="3s" /> generates images. <break time="3s" />
+You probably know DALL-E.
+DALL-E is <break time="3s" /> a AI system where you <break time="3s" /> give a prompt and it <break time="3s" /> generates images. <break time="3s" />
+You probably know Sora. <break time="3s" />
+You probably know Sora. <break time="3s" />
+Give a prompt and it <break time="3s" /> generates video. <break time="3s" />
+Give a prompt and it <break time="3s" /> generates video. <break time="3s" />
+Right? <break time="3s" />
+Right? <break time="3s" />
+So to do this, you <break time="3s" /> need to train it with <break time="3s" /> data. <break time="3s" />
+So to do this, you <break time="3s" /> need to train it with <break time="3s" /> data. <break time="3s" />
+For ChatGPT, data is text. <break time="3s" /> <break time="3s" />
+For ChatGPT, data is text. <break time="3s" /> <break time="3s" />
+Where do you get the <break time="3s" /> text? <break time="3s" />
+Where do you get the <break time="3s" /> text? <break time="3s" />
+Text everywhere-books, Internet, everywhere. <break time="3s" />
+Text everywhere-books, Internet, everywhere. <break time="3s" />
+For images, where do you <break time="3s" /> get the images? <break time="3s" />
+For images, where do you <break time="3s" /> get the images? <break time="3s" />
+Digital cameras, your smartphone- it's <break time="3s" /> on the Internet. <break time="3s" />
+Digital cameras, your smartphone- it's <break time="3s" /> on the Internet. <break time="3s" />
+For Sora, the video-creation AI, <break time="3s" /> where do you get the <break time="3s" /> data video? <break time="3s" />
+For Sora, the video-creation AI, <break time="3s" /> where do you get the <break time="3s" /> data video? <break time="3s" />
+It's on YouTube. <break time="3s" />
+It's on YouTube. <break time="3s" />
+It's everywhere. <break time="3s" />
+It's everywhere. <break time="3s" />
+So we can train these <break time="3s" /> systems to do that. <break time="3s" />
+So we can train these <break time="3s" /> systems to do that. <break time="3s" />
+Can you use the same <break time="3s" /> concept for robotics? <break time="3s" />
+Can you use the same <break time="3s" /> concept for robotics? <break time="3s" />
+Okay, let's do that. <break time="3s" />
+Okay, let's do that. <break time="3s" />
+Then you need to have <break time="3s" /> the data, but what is <break time="3s" /> the data for robots? <break time="3s" />
+Then you need to have <break time="3s" /> the data, but what is <break time="3s" /> the data for robots? <break time="3s" />
+It's the motion, position, acceleration-not <break time="3s" /> only that but impact, friction. <break time="3s" /> <break time="3s" />
+It's the motion, position, acceleration-not <break time="3s" /> only that but impact, friction. <break time="3s" /> <break time="3s" />
+Where do you get this <break time="3s" /> data? <break time="3s" />
+Where do you get this <break time="3s" /> data? <break time="3s" />
+If you search online, do <break time="3s" /> you find this data? <break time="3s" />
+If you search online, do <break time="3s" /> you find this data? <break time="3s" />
+No, it does not exist. <break time="3s" /> <break time="3s" />
+No, it does not exist. <break time="3s" /> <break time="3s" />
+So we didn't have the <break time="3s" /> data, and it's very difficult <break time="3s" /> to get this huge amount <break time="3s" /> of data. <break time="3s" />
+So we didn't have the <break time="3s" /> data, and it's very difficult <break time="3s" /> to get this huge amount <break time="3s" /> of data. <break time="3s" />
+So, that's why we couldn't <break time="3s" /> use AI techniques to make <break time="3s" /> it work for Artemis. <break time="3s" />
+So, that's why we couldn't <break time="3s" /> use AI techniques to make <break time="3s" /> it work for Artemis. <break time="3s" />
+Okay? <break time="3s" />
+Okay? <break time="3s" />
+Now BALLU is different. <break time="3s" />
+Now BALLU is different. <break time="3s" />
+Let's try to do it <break time="3s" /> a model-based approach. <break time="3s" />
+Let's try to do it <break time="3s" /> a model-based approach. <break time="3s" />
+We couldn't do that because <break time="3s" /> it's so highly nonlinear. <break time="3s" />
+We couldn't do that because <break time="3s" /> it's so highly nonlinear. <break time="3s" />
+When the wind blows, it's <break time="3s" /> so sensitive to different type <break time="3s" /> of conditions-very difficult to describe <break time="3s" /> its motion using physics and <break time="3s" /> mathematics. <break time="3s" />
+When the wind blows, it's <break time="3s" /> so sensitive to different type <break time="3s" /> of conditions-very difficult to describe <break time="3s" /> its motion using physics and <break time="3s" /> mathematics. <break time="3s" />
+So we couldn't use model-based, <break time="3s" /> but unlike Artemis, this robot <break time="3s" /> does not fall down. <break time="3s" />
+So we couldn't use model-based, <break time="3s" /> but unlike Artemis, this robot <break time="3s" /> does not fall down. <break time="3s" />
+So in the lab, 24/7, <break time="3s" /> it's constantly walking in the <break time="3s" /> lab. <break time="3s" />
+So in the lab, 24/7, <break time="3s" /> it's constantly walking in the <break time="3s" /> lab. <break time="3s" />
+We have the motion-capture camera, <break time="3s" /> and we're extracting data of <break time="3s" /> its motion. <break time="3s" />
+We have the motion-capture camera, <break time="3s" /> and we're extracting data of <break time="3s" /> its motion. <break time="3s" />
+So we trained the AI <break time="3s" /> system to make it walk. <break time="3s" /> <break time="3s" />
+So we trained the AI <break time="3s" /> system to make it walk. <break time="3s" /> <break time="3s" />
+So this is really interesting. <break time="3s" /> <break time="3s" />
+So this is really interesting. <break time="3s" /> <break time="3s" />
+So the Artemis robot, uh, <break time="3s" /> we couldn't do learning-based, so <break time="3s" /> we did model-based. <break time="3s" />
+So the Artemis robot, uh, <break time="3s" /> we couldn't do learning-based, so <break time="3s" /> we did model-based. <break time="3s" />
+BALLU, we couldn't do model-based, <break time="3s" /> but it was great for <break time="3s" /> learning-based, which is AI. <break time="3s" />
+BALLU, we couldn't do model-based, <break time="3s" /> but it was great for <break time="3s" /> learning-based, which is AI. <break time="3s" />
+And that's what we did. <break time="3s" /> <break time="3s" />
+And that's what we did. <break time="3s" /> <break time="3s" />
+What excites you about the <break time="3s" /> future of robotics? <break time="3s" />
+What excites you about the <break time="3s" /> future of robotics? <break time="3s" />
+Oh, it's robots! <break time="3s" />
+Oh, it's robots! <break time="3s" />
+How can you not be <break time="3s" /> excited about the future? <break time="3s" />
+How can you not be <break time="3s" /> excited about the future? <break time="3s" />
+Every day, I'm like a <break time="3s" /> kid in a toy store. <break time="3s" /> <break time="3s" />
+Every day, I'm like a <break time="3s" /> kid in a toy store. <break time="3s" /> <break time="3s" />
+There's also danger of AI <break time="3s" /> in these type of robots-ethical <break time="3s" /> problems. <break time="3s" />
+There's also danger of AI <break time="3s" /> in these type of robots-ethical <break time="3s" /> problems. <break time="3s" />
+Sure. <break time="3s" />
+Sure. <break time="3s" />
+We are completely aware of <break time="3s" /> those things. <break time="3s" />
+We are completely aware of <break time="3s" /> those things. <break time="3s" />
+But if you think about <break time="3s" /> it, what is technology? <break time="3s" />
+But if you think about <break time="3s" /> it, what is technology? <break time="3s" />
+What is robotics technology? <break time="3s" />
+What is robotics technology? <break time="3s" />
+Yeah, some people define it <break time="3s" /> as sense, plan, act. <break time="3s" />
+Yeah, some people define it <break time="3s" /> as sense, plan, act. <break time="3s" />
+It's an intelligent machine that <break time="3s" /> does work. <break time="3s" />
+It's an intelligent machine that <break time="3s" /> does work. <break time="3s" />
+For me, robots-the definition of <break time="3s" /> robot for me is an <break time="3s" /> intelligent machine that does things <break time="3s" /> that people cannot do or <break time="3s" /> shouldn't be doing or don't <break time="3s" /> want to do. <break time="3s" />
+For me, robots-the definition of <break time="3s" /> robot for me is an <break time="3s" /> intelligent machine that does things <break time="3s" /> that people cannot do or <break time="3s" /> shouldn't be doing or don't <break time="3s" /> want to do. <break time="3s" />
+In other words, robotics is <break time="3s" /> a technology to help people <break time="3s" /> make the world a better <break time="3s" /> place and make people happy. <break time="3s" /> <break time="3s" />
+In other words, robotics is <break time="3s" /> a technology to help people <break time="3s" /> make the world a better <break time="3s" /> place and make people happy. <break time="3s" /> <break time="3s" />
+It might sound cheesy, but <break time="3s" /> that's truly what I believe. <break time="3s" /> <break time="3s" />
+It might sound cheesy, but <break time="3s" /> that's truly what I believe. <break time="3s" /> <break time="3s" />
+And this Electric State robot, <break time="3s" /> Cosmo, is no different. <break time="3s" />
+And this Electric State robot, <break time="3s" /> Cosmo, is no different. <break time="3s" />
+Is it a robot that <break time="3s" /> actually does helpful work and <break time="3s" /> fixes stuff in your house? <break time="3s" /> <break time="3s" />
+Is it a robot that <break time="3s" /> actually does helpful work and <break time="3s" /> fixes stuff in your house? <break time="3s" /> <break time="3s" />
+No, but it's entertainment. <break time="3s" />
+No, but it's entertainment. <break time="3s" />
+It makes people happy. <break time="3s" />
+It makes people happy. <break time="3s" />
+And I think that is <break time="3s" /> very, very important. <break time="3s" />
+And I think that is <break time="3s" /> very, very important. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

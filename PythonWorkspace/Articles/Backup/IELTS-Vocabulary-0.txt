@@ -1,0 +1,401 @@
+1. 好处: advantage
+
+benefit, merit, positive side, upside, boon, pros
+
+2. 弊端: disadvantage
+
+defect, demerit, negative side, downside, flaw, drawback, cons
+
+3. 趋势: trend
+
+tendency, inclination
+
+4. 压力: stress
+
+pressure, strain
+
+5. 证据: evidence
+
+proof
+
+6. 冲突: conflict
+
+shock, tension
+
+7. 影响: influence
+
+impact, pervade
+
+8. 差异: difference
+
+distinction, gap
+
+9. 措施: measure
+
+step, action
+
+10. 意识: awareness
+
+consciousness
+
+形容词类
+
+11. 重要的: essential
+
+significant, vital, crucial, critical, fundamental, indispensable
+
+12. 合理的: justified
+
+sensible, feasible, convincing, persuasive, rational, practicable, logical, wise, sagacious, viable, preferable, advisable, appropriate,  bear much analysis
+
+13. 有益的: beneficial
+
+conducive, instrumental
+
+14. 有害的: detrimental
+
+harmful, virulent
+
+15. 有争议的: controversial
+
+disputable, contentious
+
+16. 专注的: be absorbed in
+
+be immersed in, devote oneself to
+
+17. 体谅的: considerate
+
+understanding, sympathetic
+
+18. 贪婪的: acquisitive
+
+money-oriented, materialistic
+
+19. 自私的: self-centered
+
+selfish, inconsiderate
+
+20. 冷漠的: indifferent
+
+apathetic, aloof
+
+21. 奢侈的: wasteful
+
+luxurious, extravagant
+
+22. 残忍的: inhumane
+
+brutal, barbaric
+
+23. 绝望的: hopeless
+
+despairing, desperate
+
+24. 过分的: excessive
+
+extravagant, exorbitant
+
+25. 激烈的: intense
+
+fierce, vigorous
+
+26. 严厉的: stringent
+
+rigorous, rigid
+
+27. 难以置信的: unbelievable
+
+incredulous, virtual
+
+28. 国外的: foreign
+
+alien, exotic
+
+29. 惊人的: extraordinary
+
+marvelous, spectacular
+
+30. 有抱负的: ambitious
+
+aggressive, aspirant
+
+31. 固有的: inherent
+
+nature, innate
+
+32. 稳定的: steady
+
+stable, constant
+
+33. 足够的: adequate
+
+enough, sufficient
+
+34. 普遍的: widespread
+
+prevalent, universal
+
+35. 明显的: evident
+
+apparent, manifest
+
+36. 与…相关: be related to
+
+be associated with, be linked to
+
+副词类
+
+37. 显著地: considerably
+
+significantly, remarkably, dramatically, tremendously, substantially
+
+38. 大约: approximately
+
+nearly, around, estimated,roughly
+
+39. 肯定: undoubtedly
+
+indeed, undeniably, there is no denying that
+
+40. 不确定: be likely to
+
+potentially presumably
+
+动词类
+
+41. 持某观点: claim 
+
+contend, deem, reckon, assert, share the belief that 
+
+42. 支持某观点: advocate
+
+maintain, vote for, side with, be in favor of 
+
+43. 反对某观点: contradict
+
+criticize, be against, cast doubts on
+
+44. 增强: enhance
+
+strengthen, boost
+
+45. 减少: decline
+
+descend, collapse, relieve
+
+46. 带来: bring about
+
+result in, lead to
+
+47. 产生，引起: create
+
+spark, yield, give rise to
+
+48. 建立: establish
+
+found, institute
+
+49. 要求: call for
+
+request, demand
+
+50. 去除: eliminate
+
+remove, eradicate
+
+51. 探讨: explore
+
+examine, identify
+
+52. 表明，描绘: indicate
+
+depict, portray, illustrate
+
+53. 解决: tackle
+
+resolve, address
+
+54. 控制: curb
+
+regulate, censor
+
+55. 解释: account for
+
+be responsible for, be attributed to
+
+56. 投资: finance
+
+invest in,  subsidize
+
+57. 缓解: relieve
+
+ease, alleviate
+
+58. 遵循: observe
+
+follow, conform to
+
+59. 继承: inherit
+
+hand down, carry forward
+
+60. 培养: cultivate
+
+train, foster
+
+61. 促进: promote
+
+contribute to, upgrade
+
+62. 适应: adapt to
+
+adjust to, acclimate to
+
+63. 提供: provide
+
+render, afford
+
+64. 替代: replace
+
+substitute, take the place of
+
+65. 保护: preserve
+
+protect, safeguard
+
+66. 赢得: gain
+
+acquire, attain
+
+67. 重视: attach importance to
+
+emphasis, highlight
+
+68. 发展: advance
+
+development, progress
+
+69. 倾向于: tend to
+
+be inclined to, be apt to 
+
+70. 吸引: attract
+
+allure, tempt
+
+71. 实现: achieve
+
+fulfill, implement
+
+72. 危害: endanger
+
+threaten; jeopardize
+
+73. 损害: undermine
+
+impair, damage
+
+74. 阻碍: hinder
+
+obstruct, impede
+
+75. 禁止: forbid
+
+ban, prohibit
+
+76. 责备: blame
+
+denounce, criticize
+
+77. 污染: pollute
+
+contaminate, stain
+
+78. 腐蚀: erode
+
+wear away, corrode
+
+79. 欺骗: deceive
+
+cheat, defraud
+
+80. 驱使: prompt
+
+spur, incite
+
+81. 恶化: worsen
+
+aggravate, deteriorate
+
+82. 夸大: exaggerate
+
+overstate
+
+83. 限制: restrain
+
+constrain, confine
+
+84. 拆除: tear down
+
+knock down, pull down
+
+85. 加速: accelerate
+
+speed up, precipitate
+
+86. 占优势: predominate 
+
+dominate
+
+87. 分辨: distinguish
+
+differentiate, discern
+
+88. 抵消: counteract
+
+offset, cancel out
+
+89. 开展: launch
+
+conduct, carry out
+
+90. 承担: assume
+
+shoulder, accept
+
+91. 颁布, 制定: enact
+
+enforce, promulgate, map out
+
+92. 交流: communicate
+
+exchange, associate
+
+93. 接触: have access to
+
+make contact with, keep in touch with
+
+94. 预见: predict
+
+expect, project
+
+95. 优先: give priority to
+
+put… into first place
+
+96. 节约: economize
+
+conserve, cherish
+
+97. 面临: be faced with
+
+be confronted with
+
+98. 注意: beware
+
+prevent, guard against
+
+99. 满足…需求: meet the need of
+
+satisfy the requirement of, cater for the demand of

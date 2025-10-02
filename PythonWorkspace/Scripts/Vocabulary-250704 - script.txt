@@ -1,0 +1,7 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Examine. To examine means to inspect (someone or something) in detail to determine their nature, condition, or qualities. It often implies a careful and systematic investigation. <break time="3s" />
+Extent. Extent refers to the degree to which something is or is believed to be the case, or the area covered by something. It indicates the scope or range of an effect or influence. <break time="3s" />
+Identity. Identity is the fact of being who or what a person or thing is. It refers to the distinguishing characteristics or qualities of an individual or group. <break time="3s" />
+Impact. Impact means the strong effect or influence that something has on a situation or person. As a verb, to impact means to have a strong effect on. <break time="3s" />
+Indicate. To indicate means to point out or show something. It can also mean to suggest or be a sign of something. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

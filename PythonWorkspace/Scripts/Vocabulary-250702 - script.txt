@@ -1,0 +1,17 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Associate. To associate means to connect someone or something with something else in your mind, or to spend time with someone as a friend or colleague. As a noun, an associate is a partner or colleague, or a person with limited membership in a group. <break time="3s" />
+Community. A community is a group of people living in the same place or having a particular characteristic in common. It can also refer to the feeling of fellowship with others as a result of sharing common attitudes, interests, and goals. <break time="3s" />
+Cultural. Cultural describes things related to the customs, arts, social institutions, and achievements of a particular nation, people, or group. It often involves shared beliefs and practices. <break time="3s" />
+Economic. Economic refers to things relating to the economy, or the system of how money, industry, and trade are organized in a country or region. It deals with the production, distribution, and consumption of goods and services. <break time="3s" />
+Individual. An individual is a single person, distinct from a group or collective. It can also describe something belonging to or characteristic of a particular person or thing. <break time="3s" />
+Organization. An organization is an organized body of people with a particular purpose, such as a business, government department, or charity. It refers to the structure and arrangement of elements working together. <break time="3s" />
+Particular. Particular refers to one specific thing or person, rather than a general one. It can also mean unusual or special. <break time="3s" />
+Policy. A policy is a course or principle of action adopted or proposed by a government, party, business, or individual. It acts as a guide for decisions and actions. <break time="3s" />
+Population. A population is all the inhabitants of a particular town, area, or country. It can also refer to a specific group of animals or objects in a given area. <break time="3s" />
+Practice. Practice refers to the actual application or use of an idea, method, or belief, as opposed to theories about it. It can also mean custom, habit, or repeated exercise to improve a skill. <break time="3s" />
+Process. A process is a series of actions or steps taken in order to achieve a particular end. It describes how something is done or how something happens. <break time="3s" />
+Region. A region is an area, especially part of a country or the world, having definable characteristics but not always fixed boundaries. It is often characterized by climate, geography, or culture. <break time="3s" />
+Significant. Significant means sufficiently great or important to be worthy of attention; noteworthy. It indicates that something has a great deal of meaning or influence. <break time="3s" />
+Social. Social relates to society or its organization. It involves the interaction of individuals and groups within a community. <break time="3s" />
+Strategy. A strategy is a plan of action or policy designed to achieve a major or overall aim. It involves careful planning and decision-making to reach a goal. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

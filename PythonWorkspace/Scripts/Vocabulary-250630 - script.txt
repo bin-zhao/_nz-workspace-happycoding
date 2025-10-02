@@ -1,0 +1,32 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Exaggeration. A statement that represents something as better or worse than it really is. <break time="3s" />
+Entertaining. Providing amusement or enjoyment. <break time="3s" />
+Impaired. Weakened or damaged; functioning poorly or less effectively. <break time="3s" />
+Commute. Travel some distance regularly between one's home and place of work or study. <break time="3s" />
+Genres. Categories of artistic composition, characterized by similarities in form, style, or subject matter. <break time="3s" />
+Crime. An action or omission that constitutes an offense that may be prosecuted by the state and is punishable by law. <break time="3s" />
+Comedy. Professional entertainment consisting of jokes and satirical sketches, intended to make an audience laugh. <break time="3s" />
+Compelling. Evoking interest, attention, or admiration in a powerfully irresistible way; not able to be refuted. <break time="3s" />
+Procedures. An established or official way of doing something. <break time="3s" />
+Interrogative. Having the form of a question; asking a question. <break time="3s" />
+Architect. A person who designs buildings and in many cases also supervises their construction. <break time="3s" />
+Dictate. To say words aloud to be typed, written down, or recorded; to lay down authoritatively. <break time="3s" />
+Dictation. The action of saying words aloud to be typed, written down, or recorded; the act of giving orders or imposing terms. <break time="3s" />
+Vacuum. A space entirely devoid of matter; a device that cleans floors and other surfaces by suction. <break time="3s" />
+Janitor. A person employed to look after a public building; a caretaker. <break time="3s" />
+Hockey. A game played on an ice rink or field between two teams of players who use curved sticks to drive a small ball or puck into the opponent's goal. <break time="3s" />
+Puck. A black disc made of hard rubber, used in ice hockey. <break time="3s" />
+Hazardous. Risky; dangerous. <break time="3s" />
+Intensive. Concentrated on a single area or subject or into a short time; characterized by a high degree of effort or concentration. <break time="3s" />
+Extensive. Covering or affecting a large area; large in amount or scale. <break time="3s" />
+Fatigue. Extreme tiredness, typically resulting from mental or physical exertion or illness. <break time="3s" />
+Nutrients. Substances that provide nourishment essential for the maintenance of life and for growth. <break time="3s" />
+Campus. The grounds and buildings of a university, college, or school. <break time="3s" />
+Satirical. Using humor, irony, or exaggeration to criticize people's stupidity or vices. <break time="3s" />
+Estate. A large area of land, usually with a large house, belonging to one person; or all the money and property owned by a particular person, especially at death. <break time="3s" />
+Distractor. Something that draws one's attention away from what they are doing or should be doing. <break time="3s" />
+Exogenous. Originating from outside; caused by external factors. <break time="3s" />
+Endogenous. Originating from within; caused by internal factors. <break time="3s" />
+Sinusoidal. Having the form of a sine wave; characterized by a smooth, repetitive oscillation. <break time="3s" />
+Rhythm. A strong, regular, repeated pattern of movement or sound. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

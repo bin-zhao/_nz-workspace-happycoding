@@ -1,0 +1,39 @@
+I love that. One of the things that I think is so cool about your lab is that, you know, in addition to creating these really ambitious humanoid robots, you also have robots that have really novel forms.
+I know you have one-the body is a helium balloon, and then it has these, like, very twiglike legs.
+Could you tell us about some of your favorite designs that, you know, go totally in the other direction and, and really are about function?
+I encourage people watching this to go to TED.com. Search for Dennis Hong. I have three talks on it.
+And I show all the different shape and size, like, crazy creative robots that we created in our lab.
+Now, the robot that you mentioned is called BALLU: Buoyancy-Assisted Lightweight Legged Unit. So humanoid robots in the early stages-they're slow.
+They fall down. They're complex, they're expensive, and they're dangerous. I mentioned why we need humanoid robots, but there's so many different problems with these.
+So we've been doing some brainstorming session on how to solve these problems. Now, during this brainstorming sessions, we always try to ask ourselves ridiculous questions.
+That ridiculous answer comes out, and sometimes from those ridiculous answers, something really-creative idea pops out.
+In this case, we ask ourselves, what if we can change the direction of gravity? How can you do that? It's possible. We ask ourselves these questions.
+That led to a new type of humanoid robot, or bipedal robot, called BALLU. The body is a helium balloon. It's a balloon with two legs. It's a ridiculous robot, but it cannot fall down.
+It's the world's safest bipedal robot, most likely, and most likely it's the world's cheapest, lowest-cost humanoid robot. It walks elegantly-a crazy, cute, wonderful, out-of-this-world robot called BALLU.
+Yeah, very cool. How is AI factoring into, uh, your robotics work and the future of robotics?
+Yes, so AI can mean different things for different people, but for our robotics, AI can mean autonomy.
+These days with this large language models-and we have a new concept called large action models.
+I talked about this Artemis humanoid robot. It's a metal robot. It can run, jump. It's a high-performance robot. It's a big, tall, heavy robot.
+Now, when we first introduced Artemis humanoid robots, the robotic society, the community was stunned by its performance, and everybody was asking, "Dr. Hong, what kind of AI technique have you used?"
+And my answer was we did not use any AI. As a matter of fact, we couldn't use any AI. The reason is this: Now everybody uses ChatGPT.
+It's a text-based, you know, chatting AI system. What is the data? The data is text. Right? You probably know DALL-E.
+DALL-E is a AI system where you give a prompt and it generates images. You probably know Sora. Give a prompt and it generates video. Right?
+So to do this, you need to train it with data. For ChatGPT, data is text. Where do you get the text? Text everywhere-books, Internet, everywhere.
+For images, where do you get the images? Digital cameras, your smartphone- it's on the Internet. For Sora, the video-creation AI, where do you get the data video?
+It's on YouTube. It's everywhere. So we can train these systems to do that. Can you use the same concept for robotics? Okay, let's do that.
+Then you need to have the data, but what is the data for robots? It's the motion, position, acceleration-not only that but impact, friction.
+Where do you get this data? If you search online, do you find this data? No, it does not exist.
+So we didn't have the data, and it's very difficult to get this huge amount of data. So, that's why we couldn't use AI techniques to make it work for Artemis. Okay?
+Now BALLU is different. Let's try to do it a model-based approach. We couldn't do that because it's so highly nonlinear.
+When the wind blows, it's so sensitive to different type of conditions-very difficult to describe its motion using physics and mathematics.
+So we couldn't use model-based, but unlike Artemis, this robot does not fall down. So in the lab, 24/7, it's constantly walking in the lab.
+We have the motion-capture camera, and we're extracting data of its motion. So we trained the AI system to make it walk. So this is really interesting.
+So the Artemis robot, uh, we couldn't do learning-based, so we did model-based.
+BALLU, we couldn't do model-based, but it was great for learning-based, which is AI. And that's what we did.
+What excites you about the future of robotics? Oh, it's robots! How can you not be excited about the future? Every day, I'm like a kid in a toy store.
+There's also danger of AI in these type of robots-ethical problems. Sure. We are completely aware of those things. But if you think about it, what is technology?
+What is robotics technology? Yeah, some people define it as sense, plan, act. It's an intelligent machine that does work.
+For me, robots-the definition of robot for me is an intelligent machine that does things that people cannot do or shouldn't be doing or don't want to do.
+In other words, robotics is a technology to help people make the world a better place and make people happy. It might sound cheesy, but that's truly what I believe.
+And this Electric State robot, Cosmo, is no different. Is it a robot that actually does helpful work and fixes stuff in your house?
+No, but it's entertainment. It makes people happy. And I think that is very, very important.

@@ -1,0 +1,17 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Theory. A theory is a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained. In science, it's a well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment. <break time="3s" />
+Treatment. Treatment refers to the manner in which someone or something is handled or dealt with. In medicine, it is the use of a particular substance or method to cure or improve a health problem. <break time="3s" />
+Appropriate. Appropriate means suitable or proper in the circumstances. It implies that something is right or fitting for a particular situation or purpose. <break time="3s" />
+Argue. To argue means to give reasons or evidence in support of an idea, action, or theory, typically with the aim of persuading others. It can also mean to dispute or disagree, often in a forceful way. <break time="3s" />
+Assess. To assess means to evaluate or estimate the nature, ability, or quality of something. It involves judging or determining the value, significance, or extent of something. <break time="3s" />
+Assessment. An assessment is the evaluation or estimation of the nature, quality, or ability of someone or something. It is the process of appraising or judging. <break time="3s" />
+Basis. The basis is the fundamental reason, principle, or cause for something. It is the foundation or starting point upon which something is constructed or reasoned. <break time="3s" />
+Benefit. A benefit is an advantage or profit gained from something. As a verb, to benefit means to receive an advantage or to be useful to someone or something. <break time="3s" />
+Category. A category is a class or division of people or things regarded as having particular shared characteristics. It is a group into which things are classified. <break time="3s" />
+Characteristic. A characteristic is a feature or quality belonging typically to a person, place, or thing and serving to identify it. It is a distinguishing trait. <break time="3s" />
+Concept. A concept is an abstract idea; a general notion. It is a general principle or understanding of something. <break time="3s" />
+Demand. Demand refers to the insistent and peremptory request or desire for something. In economics, it is the quantity of a good or service that consumers are willing and able to purchase at various prices. As a verb, to demand means to ask for something forcefully. <break time="3s" />
+Determine. To determine means to establish or ascertain exactly, typically as a result of research or calculation. It can also mean to decide firmly, or to be a strong factor in deciding an outcome. <break time="3s" />
+Distribution. Distribution is the action of sharing something out among a number of recipients. It also refers to the way in which something is spread or arranged over an area. <break time="3s" />
+Evidence. Evidence is the available body of facts or information indicating whether a belief or proposition is true or valid. It serves as proof or support for an argument. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

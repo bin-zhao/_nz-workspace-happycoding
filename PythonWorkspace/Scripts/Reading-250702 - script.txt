@@ -1,0 +1,17 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Associate. Associate. Associate.  <break time="3s" />
+Community. Community. Community.  <break time="3s" />
+Cultural. Cultural. Cultural.  <break time="3s" />
+Economic. Economic. Economic.  <break time="3s" />
+Individual. Individual. Individual.  <break time="3s" />
+Organization. Organization. Organization.  <break time="3s" />
+Particular. Particular. Particular.  <break time="3s" />
+Policy. Policy. Policy.  <break time="3s" />
+Population. Population. Population.  <break time="3s" />
+Practice. Practice. Practice.  <break time="3s" />
+Process. Process. Process.  <break time="3s" />
+Region. Region. Region.  <break time="3s" />
+Significant. Significant. Significant.  <break time="3s" />
+Social. Social. Social.  <break time="3s" />
+Strategy. Strategy. Strategy.  <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

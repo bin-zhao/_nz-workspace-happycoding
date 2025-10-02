@@ -1,0 +1,12 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Edamame. Edamame. Edamame.  <break time="3s" />
+Soybean. Soybean. Soybean.  <break time="3s" />
+Boil. Boil. Boil.  <break time="3s" />
+Flavor. Flavor. Flavor.  <break time="3s" />
+Soy sauce. Soy sauce. Soy sauce.  <break time="3s" />
+Vinegar. Vinegar. Vinegar.  <break time="3s" />
+Intoxication. Intoxication. Intoxication.  <break time="3s" />
+Anxious. Anxious. Anxious.  <break time="3s" />
+Excruciating. Excruciating. Excruciating.  <break time="3s" />
+Vulnerability. Vulnerability. Vulnerability.  <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!

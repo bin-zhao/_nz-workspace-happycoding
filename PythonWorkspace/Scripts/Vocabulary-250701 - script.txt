@@ -1,0 +1,12 @@
+Test will start in 3 seconds, countdown, 3, 2, 1, Go!
+Edamame. Young soybeans, typically served in the pod, often steamed or boiled and lightly salted. <break time="3s" />
+Soybean. A type of bean grown mainly in China and Japan, used to produce oil, flour, and animal feed. <break time="3s" />
+Boil. (Of a liquid) reach the temperature at which it bubbles and turns to vapor; to cook (food) by boiling it. <break time="3s" />
+Flavor. The distinctive taste of a food or drink. <break time="3s" />
+Soy sauce. A salty, dark brown liquid condiment made from fermented soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds. <break time="3s" />
+Vinegar. A sour-tasting liquid containing acetic acid, obtained by fermenting alcohol, used as a condiment or for pickling. <break time="3s" />
+Intoxication. The state of being poisoned (especially by alcohol or drugs); extreme excitement or exhilaration. <break time="3s" />
+Anxious. Experiencing worry, unease, or nervousness, typically about an event or something with an uncertain outcome; wanting something very much. <break time="3s" />
+Excruciating. Intensely painful; mentally agonizing. <break time="3s" />
+Vulnerability. The quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally. <break time="3s" />
+Test complete! Please check your answer and improve yourself, see you next time!
