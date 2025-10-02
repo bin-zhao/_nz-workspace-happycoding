@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "PythonWorkspace"
+		},
+		{
+			"path": "JupiterWorkspace"
+		},
+		{
+			"path": "WolframWorkspace"
 		}
 	]
 }
